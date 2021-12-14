@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711687583009",
+    "project_id": "classwork-d5d4e",
+    "storage_bucket": "classwork-d5d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711687583009:android:59df442b0268ad7110fa60",
+        "android_client_info": {
+          "package_name": "com.Ree.SecondGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711687583009-bbc1o5hgvc1oc0toiopm5h0hc5ja85g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxwZUA_EXHXId5BQMaAOCSgx6BWnV8Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711687583009-bbc1o5hgvc1oc0toiopm5h0hc5ja85g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
